@@ -1,0 +1,8 @@
+print("Insert a")
+a = int(input())
+print("Insert b")
+b = int(input())
+(a,b)=(b,a)
+print("a=",a)
+print("b=",b)
+print("Magic!!!")
